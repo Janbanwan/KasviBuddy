@@ -1,0 +1,21 @@
+{
+  "id": "possibly UUIDV4 or something like that",
+  "nickName": "Cute nickname yo",
+  "commonName": "Keihäs anopinkieli",
+  "scientificName": "Sansevieria cylindrica",
+  "guide": {
+    "watering": "Every 2 weeks",
+    "light": "No direct light",
+    "fertilizing": "Every 2 weeks during summer season, never during winter season",
+    "soil": "Cactus soil"
+  },
+  "servicing": {
+    "lastWateringDate": "DateTime eg 2020.05.05T12:00",
+    "fertilizing": {
+      "lastFertilizingDate": "DateTime eg 2020.05.05T12:00",
+      "amount": "2 drops",
+      "product": "Biolan kasviravinne"
+    },
+    "lastSoilChange": "DateTime eg 2020.05.05T12:00"
+  }
+}
